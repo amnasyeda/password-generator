@@ -1,4 +1,25 @@
 // Assignment code here
+var userInput = "";
+var arraySplit = "";
+var exitApplixation = false;
+var finalPassword = "";
+var displayPassword = "";
+
+// reference for randomized strings
+var pReference = {
+    numbers: { indexNumber: 0, reference: "0123456789"
+    },
+    uppercase: { indexNumber: 1, reference: "ABCDEFGHIJKLMNOPQRSTUVWXYZ"        
+    }, 
+    lowercase: { indexNumber: 2, reference: "abcdefghijklmnopqrstuvwxyz"
+    },
+    characters: { indexNumber: 3, reference: "!@#$%^&*()<>?/.,;:{}[]~\|"
+    }
+}
+
+var generatePassword = function () {
+
+}
 
 
 // Get references to the #generate element
