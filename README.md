@@ -1,5 +1,4 @@
 # password-generator
-# [Password-Generator] (https://amnasyeda.github.io/password-generator/)
 
 Description:
 
