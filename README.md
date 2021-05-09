@@ -3,7 +3,7 @@
 Description:
 
 The third assignment for UofT Bootcamp which is to create a simple random password generator through Javascript, along with HTML and CSS. 
-Purpose: to create a random password based on the criteria needed by the user. The password must range from being 8-128 characters in length and the user must use at least one of the characters asked in order to generate a new and secure password. 
+Purpose: to create a random password based on the criteria needed by the user. The password must range from being 8-128 characters in length and the user must use at least one of the four characters options asked in order to generate a new and secure password. 
 
 Deployed Git Hub URL: 
 <a href="https://amnasyeda.github.io/password-generator/" target="_blank">Click here</a>
