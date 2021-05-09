@@ -1,3 +1,4 @@
+// Generating code 
 let generateBtn = document.querySelector("#generate");
 console.log(generateBtn)
 
@@ -77,5 +78,6 @@ function writePassword() {
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
 console.log(generateBtn)
+
 
 
