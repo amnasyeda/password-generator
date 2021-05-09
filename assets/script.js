@@ -46,7 +46,7 @@ function generatePassword() {
       specialCharacters === false &&
       numbers === false
     ) {
-      alert("Please select at least one character type to generate the password.");
+      alert("Please select at least one character type mentioned above in order to generate the password.");
       generatePassword();
     }
   }
