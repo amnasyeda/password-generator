@@ -18,5 +18,8 @@ Webpage Screenshot on standard internet browser:
 
 ![alt text](https://raw.githubusercontent.com/amnasyeda/password-generator/images/password-generator.png)
 
+<img width="999" alt="password-generator" src="https://user-images.githubusercontent.com/81194686/117585133-bb81b400-b0de-11eb-8c10-e8e3936e80d3.png">
+
+
 References:
 - [w3schools](https://www.w3schools.com/)
