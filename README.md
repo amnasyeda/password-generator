@@ -16,7 +16,7 @@ Please note that the link above is not for a functional website and is only for 
 Webpage Screenshot on standard internet browser:
 
 
-![alt text](https://raw.githubusercontent.com/amnasyeda/password-generator/assets/images/password-generator.png)
+![alt text](https://raw.githubusercontent.com/amnasyeda/password-generator/images/password-generator.png)
 
 References:
 - [w3schools](https://www.w3schools.com/)
